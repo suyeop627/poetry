@@ -1,11 +1,14 @@
-# 1. 프로젝트 소개
+# POE-TRY
+## [상세 포트폴리오 보러가기](https://crystal-bayberry-1c6.notion.site/FITCHWI-6cdadc98aebb4c65a9f657ea6e5d3007?pvs=4)
 
-## 1-1. POE-TRY란
+## 1. 프로젝트 소개
+
+### 1-1. POE-TRY란
 
 - 짧은 시를 작성하고, 공유할 수 있는 공간을 제공하는 서비스
 - 스마트폰, 유튜브 등 자극적인 매체에서 발생할 수 있는 도파민 중독의 위험성을 완화하고, 자신의 생각과 감정을 되돌아보며 ‘생각’의 기회를 제공
 
-## 1-2. 주요 기능 및 기능별 개발 목적
+### 1-2. 주요 기능 및 기능별 개발 목적
 
 - JWT를 활용한 인증
     - 서버에서 세션정보를 저장하지 않으므로 서버의 부담 감소
@@ -71,7 +74,7 @@
             </aside>
             
 
-# 2. 개발도구
+## 2. 개발도구
 
 - Back end
     - SpringBoot : 3.2.0
@@ -87,7 +90,6 @@
     - react : 18.2.0
     - Meterial UI : 5.15.7
 
-# 3. 데이터베이스 다이어그램
-![poe_try_db_diagram](https://github.com/suyeop627/poetry/assets/112303446/99a3347e-4d45-4db2-8096-c1aff82d5f9a)
+## 3. 데이터베이스 다이어그램
+![poe_try_db_diagram](https://github.com/suyeop627/fitchwi_icia_finalproject/assets/112303446/62ebfb1a-dd20-4cab-adf1-cf5c4b07402f)
 
-# [포트폴리오](https://crystal-bayberry-1c6.notion.site/POE-TRY-62f77278e5c0480bb0296c07077ac290?pvs=4)
