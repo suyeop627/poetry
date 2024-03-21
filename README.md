@@ -1,5 +1,5 @@
 # POE-TRY
-## [상세 포트폴리오 보러가기](https://crystal-bayberry-1c6.notion.site/FITCHWI-6cdadc98aebb4c65a9f657ea6e5d3007?pvs=4)
+## [상세 포트폴리오 보러가기](https://crystal-bayberry-1c6.notion.site/POE-TRY-62f77278e5c0480bb0296c07077ac290?pvs=4)
 
 ## 1. 프로젝트 소개
 
